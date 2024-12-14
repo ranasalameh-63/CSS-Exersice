@@ -1,4 +1,4 @@
-#🖼️ CSS-Exersice
+# CSS-Exersice
 
 ## 📝 Description
 
