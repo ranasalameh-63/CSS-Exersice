@@ -1,0 +1,26 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(245, 243, 240);
+    border-right:2px solid black ;
+}
+span{   
+    display: inline-block;
+    width: 250px;
+    height: 113px;
+    padding: 15px;
+    border: 1px  #ccc; 
+    background-color: rgb(206, 230, 237); 
+    box-sizing: border-box; 
+    overflow: hidden
+}
+.scrollContanier {
+    width: 800px;
+    height: 75px;
+    margin-left: 5px;
+    border-top: 2px solid black; 
+    border-bottom: 2px solid black;
+    overflow-y: scroll;
+    margin-top: 0px;
+    margin-bottom:0%;
+} 
+      
