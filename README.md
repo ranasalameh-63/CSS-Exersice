@@ -1,5 +1,4 @@
-# CSS-Exersice
-# 🖼️ CSS Image Styling Task
+#🖼️ CSS-Exersice
 
 ## 📝 Description
 
